@@ -1,0 +1,19 @@
+# addon:be_settings plugin:style_settings de_de
+
+a240style_name = Style
+
+a240style_head = Style-Einstellungen
+
+a240style_be_center = Backend zentriert
+
+a240style_default_width = Standardbreite
+a240style_be_width = Backendbreite
+a240style_width_desc = Bezeichnung (optional)
+a240style_width = Breite
+a240style_add = hinzufügen
+a240style_delete = entfernen
+
+a240style_refresh_notice = Wenn nach dem Speichern keine Änderung sichtbar ist, ein Mal die Seite aktualisieren!
+
+
+style_settings_description = style_settings_description = Diverse Backend Style Einstellungen wie z.B. Breite des Backends

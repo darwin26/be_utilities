@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+}
+  
+body {
+  margin: 0 auto 1px auto;
+  overflow: -moz-scrollbars-vertical;
+}
+
+div#rex-website {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+
+div#rex-website:after {
+  content: "."; 
+  display: block; 
+  height: 0px;
+  clear: both; 
+  visibility: hidden;
+}

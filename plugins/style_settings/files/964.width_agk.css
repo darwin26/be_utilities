@@ -1,0 +1,61 @@
+div#rex-website {
+  width: 964px; /* -0px */
+}
+
+div.rex-form div.rex-form-row div.rex-form-checkboxes-wrapper, 
+div.rex-form div.rex-form-row div.rex-form-radios-wrapper, 
+div.rex-form div.rex-form-row p.rex-form-label-right label, 
+div.rex-form div.rex-form-row p.rex-form-read span, 
+div.rex-form div.rex-form-row p.rex-form-text input,
+div.rex-form div.rex-form-row p.rex-form-password input,
+div.rex-form div.rex-form-row p select,
+div.rex-form div.rex-form-row p textarea,
+div.rex-form div.rex-form-element-v2 label, 
+div.rex-form div.rex-form-element-v2 p.rex-form-label {
+	width: 456px; /* -508px */
+}
+
+div.rex-form-login div.rex-form-row p.rex-form-text input,
+div.rex-form-login div.rex-form-row p.rex-form-password input {
+	width: 100px;
+}
+
+div.rex-form-login div.rex-form-row p input.rex-form-submit {
+	width: auto;
+}
+
+body#rex-page-image-resize div.rex-form div.rex-form-element-v2 label, 
+body#rex-page-image-resize div.rex-form div.rex-form-element-v2 p.rex-form-label {
+	width: 446px; /* -518px */
+}
+
+div.rex-form div.rex-form-element-v2 div.rex-form-checkboxes-wrapper, 
+div.rex-form div.rex-form-element-v2 div.rex-form-radios-wrapper, 
+div.rex-form div.rex-form-element-v2 p.rex-form-label-right label, 
+div.rex-form div.rex-form-element-v2 p.rex-form-read span, 
+div.rex-form div.rex-form-element-v2 p.rex-form-text input,
+div.rex-form div.rex-form-element-v2 p.rex-form-password input,
+div.rex-form div.rex-form-element-v2 p select,
+div.rex-form div.rex-form-element-v2 p textarea {
+	width: 145px; /* -819px */
+}
+
+div.rex-area-scroll {
+	width: 500px; /* -464px */
+}
+
+div#rex-wrapper {
+	width: 745px; /* -219px */
+}
+
+.be-style-agb-skin .rex-dashboard-2col .rex-dashboard-column {
+	width: 367px; /* -230px /2 */
+}
+
+.be-style-agb-skin .rex-dashboard-1col .rex-dashboard-component-content table.rex-table {
+	width: 744px; /* -220px */
+}
+
+.be-style-agb-skin .rex-dashboard-2col .rex-dashboard-component-content table.rex-table {
+	width: 366px; /* -232px /2 */
+}
